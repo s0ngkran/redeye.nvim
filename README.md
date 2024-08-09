@@ -8,12 +8,12 @@ Redeye is a Neovim theme designed to provide a smooth and comfortable experience
 
 ### [packer](https://github.com/wbthomason/packer.nvim)
 ```lua
-use 'ggandor/lightspeed.nvim'
+use 's0ngkran/redeye.nvim'
 ```
 
 ### [vim-plug](https://github.com/junegunn/vim-plug)
 ```vim
-Plug 'ggandor/lightspeed.nvim'
+Plug 's0ngkran/redeye.nvim'
 ```
 
 ### [lazy](https://github.com/folke/lazy.nvim)
