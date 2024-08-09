@@ -7,18 +7,13 @@ Redeye is a Neovim theme designed to provide a smooth and comfortable experience
 
 ## Installation
 
-### Command
-
-```vim
-:lua require("redeye"):setup()
-:colorscheme redeye
-```
-
-### Lazy.nvim
-
+using Lazy.nvim
 ```lua
 {  
    's0ngkran/redeye',
-   lazy = false, 
 }
+```
+
+```vim
+:colorscheme redeye
 ```
