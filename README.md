@@ -13,7 +13,8 @@
 ### Lazy.nvim
 
 ```lua
-   {  's0ngkran/redeye',
-      lazy = false, 
-   }
+{  
+   's0ngkran/redeye',
+   lazy = false, 
+}
 ```
