@@ -8,7 +8,7 @@ local colors   = {
    bg_light  = "#2e2e2a",
    menu_bg   = "#3b3a32",
    sel_bg    = "#4a4a40",
-   line_num  = "#4a4a40",
+   line_num  = "#A65B0A",
    highlight = "#D17776",
    fg        = "#F8F8F0",
    accent    = "#B5AF8F",
@@ -130,7 +130,7 @@ function Theme.set_highlights(highlights)
    end
    -- vim.api.nvim_set_hl(0, 'Cursor', { reverse = true })
    --
-   vim.api.nvim_set_hl(0, 'LeapLabelPrimary', { fg = '#ff0000', bg = '#000000', bold = true })
+   vim.api.nvim_set_hl(0, 'LeapLabelPrimary', { fg = '#A67B0A', bg = '#000000', bold = true })
    vim.api.nvim_set_hl(0, 'LeapLabelSecondary', { fg = '#00ff00', bg = '#000000', bold = true })
    vim.api.nvim_set_hl(0, 'LeapBackdrop', { fg = '#555555' })
    vim.api.nvim_set_hl(0, 'LeapMatch', { fg = '#ffffff', bold = true })
