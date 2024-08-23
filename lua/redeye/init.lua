@@ -86,8 +86,8 @@ local common   = {
 }
 
 local spell    = {
-   Search     = { fg = "#1E1E1B", bg = "#F1FA8C" },
-   CurSearch  = { fg = "#FF79C6", bg = "#F1FA8C" },
+   Search     = { fg = "#1E1E1B", bg = "#C5AA20" },
+   CurSearch  = { fg = "#1E1E1B", bg = "#C17937" },
    MatchParen = { fg = "#50fa7b", bold = true },
 
    SpellBad   = { sp = "#FF5555", undercurl = true },
